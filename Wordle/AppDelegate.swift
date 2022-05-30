@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Wordle
 //
-//  Created by Raja sharma on 4/6/22.
+//  Created by Hiya sharma on 4/6/22.
 //  Copyright © 2022 Hiya Sharma. All rights reserved.
 //
 
